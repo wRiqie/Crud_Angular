@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Xbox Series X",
+      "price": 4699,
+      "id": 1
+    },
+    {
+      "name": "Playstation 5",
+      "price": 4599,
+      "id": 2
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": 2699,
+      "id": 3
+    },
+    {
+      "name": "Playstation 4 Pro",
+      "price": 2199,
+      "id": 4
+    }
+  ]
+}
